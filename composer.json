@@ -1,0 +1,14 @@
+{
+    "name": "kostush/programm-ppo",
+    "description": "Programm PPO",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "kostush",
+            "email": "kostush@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
